@@ -72,7 +72,7 @@ const config = {
         "Provided daily updates and managed every detail remotely so the sellers never felt out of the loop"
       ],
       "testimonial": {
-        "quote": "\"\"There are simply not enough superlatives to characterize the service that Daaron provided. Selling a condominium in the current market was something I viewed with considerable trepidation. However Daaron with his penchant for a logical, sensible, insightful and sound approach to the listing and marketing of our property, along with his team of support staff, accomplished our sale with facile and a clear knowledge of how to manage our needs. There was rarely a day when we did not receive updates on the progress of our listing. We achieved the full agreed to listing price that reflected the reality of the market today. Finally his recommendation for a legal professional whom we could trust to finalize our sale was a further reflection of the quality of service that we received. Thank you Daaron for a job well done. Our highest praise to you as the consummate professional.\"\"<br><span>— Satisfied Client</span>"
+        "quote": "\"\"There are simply not enough superlatives to characterize the service that Daaron provided. Selling a condominium in the current market was something I viewed with considerable trepidation. However Daaron with his penchant for a logical, sensible, insightful and sound approach to the listing and marketing of our property, along with his team of support staff, accomplished our sale with facile and a clear knowledge of how to manage our needs. There was rarely a day when we did not receive updates on the progress of our listing. We achieved the full agreed to listing price that reflected the reality of the market today. Finally his recommendation for a legal professional whom we could trust to finalize our sale was a further reflection of the quality of service that we received. Thank you Daaron for a job well done. Our highest praise to you as the consummate professional.\"\"<br><span>— Douglas Paterson</span>"
       },
       "listItems": []
     },
@@ -83,7 +83,7 @@ const config = {
         "After watching other condos languish on the market for months, Sarah and Robert knew they needed an agent who could deliver results in impossible conditions. When I walked them through my complete process and strategy, they felt confident I could handle everything seamlessly while they remained out of town."
       ],
       "image": {
-        "src": "https://drive.google.com/file/d/15UAlI2ltKQprCNbcu2NCmBguT1oDUuCg/view?usp=sharing"
+        "src": "https://i.ibb.co/23cG0SwK/17.jpg"
       },
       "listItems": []
     },
