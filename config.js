@@ -24,7 +24,7 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Helped Out-of-Town Sellers Secure Multiple Offers and Sell Their Toronto Condo in Just 7 Days While the Market Average Was 40 Days",
+    "title": "$690K, 7 Days, Zero Conditions: How We Sold a Toronto Condo 83% Faster Than Market Average (40 Days)",
     "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now <a href=\"#\">Generating Top-Dollar Rent</a> in a Tight Market"
   },
   "mainBox": {
