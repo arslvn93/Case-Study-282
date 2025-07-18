@@ -83,7 +83,7 @@ const config = {
         "After watching other condos languish on the market for months, Sarah and Robert knew they needed an agent who could deliver results in impossible conditions. When I walked them through my complete process and strategy, they felt confident I could handle everything seamlessly while they remained out of town."
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://drive.google.com/file/d/15UAlI2ltKQprCNbcu2NCmBguT1oDUuCg/view?usp=sharing"
       },
       "listItems": []
     },
