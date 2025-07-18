@@ -3,7 +3,7 @@ const config = {
     "agents": [
       {
         "name": "Daaron Johnston",
-        "imageSrc": "https://s3.ca-central-1.amazonaws.com/property.ca/public/images/logo/property-logo-web.png",
+        "imageSrc": "https://media.licdn.com/dms/image/v2/D5622AQG5U3WP4B3lTA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1680122664499?e=2147483647&v=beta&t=NEp4V3S_UG6fzHkbkLMQPgF07v89l0oqzBwC9GMeoqo",
         "contactDetails": [
           {
             "type": "email",
