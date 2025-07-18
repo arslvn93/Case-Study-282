@@ -31,7 +31,7 @@ const config = {
     "summary": {
       "title": "How We Helped Out-of-Town Sellers Secure Multiple Offers and Sell Their Toronto Condo in Just 7 Days While the Market Average Was 40 Days",
       "heroImage": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://i.ibb.co/R1MjQf3/14.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
