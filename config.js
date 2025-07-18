@@ -123,10 +123,10 @@ const config = {
       "href": "https://property.ca/privacy"
     },
     "logo": {
-      "src": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/cbf16da1-696f-45a5-8037-4a0f6d74fca9/daaron_headhsot_v2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665GAW2SST%2F20250715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250715T151118Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEC8aCXVzLXdlc3QtMiJIMEYCIQD4CmW80%2FpPcYQfj2V6x%2BeLn9AXhTUVikbRFFzZ%2B88SmQIhAJ3k%2FQ3BoMSLlFTfWqCWRN98Wmq9ejql8eVVYInJ%2F3kAKv8DCEgQABoMNjM3NDIzMTgzODA1IgzNYNeY2L3zIZ2bNZsq3ANoLEvM8Ya7cAVhQZHGGwMHnHc%2B%2FrrpxIQL9mnuSq9Wk7DfGtR2yhogVsnLEgtdHC3yCvyfEZWMGUH0GpxbZjT21unWxZoRS1G9ZWWhrDZOjneYj46VYaucAOGmu0ZAhpTeURYECokIY77STY%2FpZxk5RddIcRaeA5a%2FE4xiacYAp3FeRCWoxqP1DegDNKsVh1UgdwdQntJ6NsMcDTypycarKol%2F2OnRGnpGEbeMp68Emee5hNmXeJVHrmLJCg7rQYRK8puvMoQWBVMua3GcjXQDJQXCGlU2J0mqyeEPOuj0lh97MUNLDUQpBFTUEqR8%2BxMUTjxrPbjeSWDlLa3FhyhYJMi%2FCjqhC6g%2BcIzQjROwXfNyfO4hrYVEfG3Q1vCaJuka1FGi0TYBAseROmvKwiD8qw9NydUAo%2BvNZGG16XHnYxtG8B6xgXuEgIXKWPB3whNomKUyiLZ1iKmvkjTayXuxtzPJYahDerybqySAi47tRDDgiBtVdXzGDWpZUrcgEUm96zCjtJ403TTkS67Bv91jU6jzPa6%2Fako8Mp7cknLHM5VyS00tEB%2FrHMEXLp9%2BQzCteCAxCquy9O6m%2FR6TikKt3QzgTBK42TMKPSB2IadmTV4zB6loKonuDwuvkTDh2tnDBjqkAZvAOPazKyrFoL3t4Nw7OjEpJHYsSaZtIrtMVEnfTHPEkp4HqOa2pD%2Fs10H3Ca4uae40Jqpqt7mgdMuPnfzP7Dl6fPMSNniGlBwr%2FLA8mryFYy%2FpBwVmL090sTR1QZBlMWjVZS9Tv9sK9QgT88a55FIyhuU87sWcVx%2B5bMyCW%2B%2BNYF%2BhM6Qn0MuELKoMxzaHGfDtvruYwPPyOheor%2Fmh1eWEgSvI&X-Amz-Signature=51680a68725aa535dc08afa6e0e947df762b1792482db3fe1868220f3f02bf0b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+      "src": "https://media.licdn.com/dms/image/v2/D5622AQG5U3WP4B3lTA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1680122664499?e=2147483647&v=beta&t=NEp4V3S_UG6fzHkbkLMQPgF07v89l0oqzBwC9GMeoqo"
     },
     "secondaryLogo": {
-      "src": "https://i.imgur.com/9GIzqTo.png"
+      "src": "https://img2.storyblok.com/480x360/f/70665/1371x2436/cb77fd577b/daaron_1.jpeg"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Property.Ca",
