@@ -40,7 +40,7 @@ const config = {
       ]
     },
     "sidebar": {
-      "title": "About {{companyName}}",
+      "title": "About Daaron Johnston",
       "image": {
         "src": "https://shared-s3.property.ca/public/images/agents/255/255-normal-617b01c7eabd54.06457687.jpg"
       },
