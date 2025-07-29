@@ -54,7 +54,7 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "\"The condo market was in the toilet\" - they were selling into a sea of downtown inventory with properties sitting unsold for months",
+        "\"The condo market was in a low\" - they were selling into a sea of downtown inventory with properties sitting unsold for months",
         "High maintenance fees were scaring away potential buyers, making their unit even harder to move",
         "Managing the entire sales process remotely while living out of town felt overwhelming and stressful",
         "They feared the lengthy, complicated process that seemed inevitable given the brutal market conditions"
