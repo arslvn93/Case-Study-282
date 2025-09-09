@@ -20,7 +20,8 @@ const config = {
     "mainCTAButtonText": "Book A Discovery Call",
     "mainCTAButtonURL": "https://calendly.com/daaronjohnston/discovery-call",
     "primaryColor": "#D7D2CB",
-    "accentColor": "#000435"
+    "accentColor": "#000435",
+    "facebookPixelId": "1074316633770404"
   },
   "header": {
     "tag": "CASE STUDY",
